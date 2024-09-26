@@ -1,0 +1,26 @@
+1. functional component
+2. Exporting the functional component and importing into index file, or any other component
+3. react fragements : empty tags that are used instead of divs. for multiple elemetnts in row we use it.
+4. React Router installation for routing
+5. Single page application: the broswer will not refrsh by navigatiing fromm one page to another. thats why we call it single page application.
+6. How to embed component into another component using react empty fragment.
+7. Boiler plate
+
+Ecommerce Project
+
+1. Learn how to use tailwend with react.
+2. How to add classess
+3. How to create properties object for inline styles of the elementand insert in inline styles.
+4. How to pass css properties as an object to inline css styles.
+5. How to use hooks, when to use hooks
+6. How to use useState Hook: when we have a data that is changing with events, we use it , we first import it from react, then use it inside functional components, we cannot use it in class components becuase they are pre defined.
+7. useEffect is used when we use to fetch data , we use fetch api function inside useEffect hook.
+8. Used Fetch Api, Promises and map function for data iteration
+9. The data recved from Api is then stored in useState hook , which eventually assign the data into the variable object. This is because the data state is changed.
+10. I learn how to call another component inside component, and then pass data using props and also destructure the
+    object.
+11. Also i learned how to pass id in url and param the id in another components using useParam hook.
+12. useParam hook helps fetch the id from url that has passed in the route of the Router.
+13. Completely learn how routing works, Routes, Route and Link.
+14. useNavigate that allow us to go back from where we come, it track url history and it helps in user friendly navigation.
+15. Load more: Additonally i added load more functionality to allow user to load more product.
